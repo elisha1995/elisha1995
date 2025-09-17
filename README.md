@@ -3,7 +3,7 @@
   <br>
   Languages: Java • C# • Go • Python • JavaScript/TypeScript • Kotlin • Swift  
   <br>
-  Frameworks: Spring Boot • Angular • React • SwiftUI • Jetpack Compose
+  Frameworks: Spring Boot • .NET • Angular • React • SwiftUI • Jetpack Compose
 </p>
 
 <p align="center">
