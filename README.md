@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
 <p align="center">
-  Backend (Java / Spring Boot) • Microservices • AWS  
   <br>
   Languages: Java • C# • Go • Python • JavaScript/TypeScript • Kotlin • Swift  
   <br>
