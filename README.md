@@ -32,8 +32,4 @@
 ![Docker](https://img.shields.io/badge/Docker-Dev-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Prod-blue)
 
-### 📌 Featured Projects
-- **Carsties** – Cars Auctioning Website (.NET + Next.js)
-- **DatingApp** – Full-stack demo (.NET + Angular)
-- **Testing Spring Boot App** – TDD/containers examples
 
