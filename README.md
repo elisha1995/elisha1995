@@ -15,9 +15,8 @@
 [![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,docker,kubernetes,aws,ts,angular,react,nextjs)](https://skillicons.dev)
 
 ### 📊 Stats
-![Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisha1995&show_icons=true)
+![Elisha's GitHub stats](https://github-readme-stats-git-main-gyamfis-projects.vercel.app/api?username=elisha1995&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisha1995&layout=compact)
-
 
 ### 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats-ruddy-five.vercel.app?user=elisha1995&theme=vue-dark)](https://git.io/streak-stats)
