@@ -15,8 +15,8 @@
 [![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,docker,kubernetes,aws,ts,angular,react,nextjs)](https://skillicons.dev)
 
 ### 📊 Stats
-![Elisha's GitHub stats](https://github-readme-stats-indol-iota-98.vercel.app/api?username=elisha1995&show_icons=true&hide_border=true&hide=stars,issues&show=prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats-indol-iota-98.vercel.app/api/top-langs/?username=elisha1995&layout=compact)
+![Elisha's GitHub stats](https://github-readme-stats-indol-iota-98.vercel.app/api?username=elisha1995&show_icons=true&hide_border=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&theme=cobalt)
+![Top Langs](https://github-readme-stats-indol-iota-98.vercel.app/api/top-langs/?username=elisha1995&layout=compact&theme=cobalt)
 
 ### 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats-ruddy-five.vercel.app?user=elisha1995&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
