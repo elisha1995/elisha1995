@@ -20,7 +20,7 @@
 
 
 ### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=elisha1995)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-five.vercel.app?user=elisha1995&theme=vue-dark)](https://git.io/streak-stats)
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=elisha1995&theme=algolia&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
