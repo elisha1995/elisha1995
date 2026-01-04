@@ -15,11 +15,11 @@
 [![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,docker,kubernetes,aws,ts,angular,react,nextjs)](https://skillicons.dev)
 
 ### 📊 Stats
-![Elisha's GitHub stats](https://github-readme-stats-indol-iota-98.vercel.app/api?username=elisha1995&show_icons=true)
+![Elisha's GitHub stats](https://github-readme-stats-indol-iota-98.vercel.app/api?username=elisha1995&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisha1995&layout=compact)
 
 ### 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats-ruddy-five.vercel.app?user=elisha1995&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-five.vercel.app?user=elisha1995&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=elisha1995&theme=algolia&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
