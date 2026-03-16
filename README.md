@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
 <p align="center">
   <br>
-  Languages: Java • C# • Go • Python • JavaScript/TypeScript • Kotlin  
+  Languages: Java • C# • Python • JavaScript/TypeScript  
   <br>
-  Frameworks: Spring Boot • .NET • Angular • React • SwiftUI • Jetpack Compose
+  Frameworks: Spring Boot • .NET • Angular • React • Express
 </p>
 
 <p align="center">
